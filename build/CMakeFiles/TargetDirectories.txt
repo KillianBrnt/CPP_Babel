@@ -1,0 +1,4 @@
+/home/kbrunet/workspace/CPP/CPP_babel_2019/build/CMakeFiles/edit_cache.dir
+/home/kbrunet/workspace/CPP/CPP_babel_2019/build/CMakeFiles/client.dir
+/home/kbrunet/workspace/CPP/CPP_babel_2019/build/CMakeFiles/rebuild_cache.dir
+/home/kbrunet/workspace/CPP/CPP_babel_2019/build/CMakeFiles/server.dir
